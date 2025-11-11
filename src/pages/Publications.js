@@ -19,7 +19,7 @@ export default function Publications() {
         </ul>
       </Section>
 
-      <Section title="Recent Publications (Last 3 Years)">
+      <Section title="Latest Publications">
         <div className="publications-list">
           {profile.recentPublications.map((pub) => (
             <div key={pub.id} className="publication-item">
@@ -39,6 +39,25 @@ export default function Publications() {
             </div>
           ))}
         </div>
+      </Section>
+
+       <Section title="Book Publications">
+       <div className="publications-list">
+         {profile.bookPublications.map((book) => (
+           <div key={book.id} className="publication-item">
+            <h3 className="featured-title">{book.title}</h3>
+           <div className="featured-meta">
+             <p>
+            <strong>
+              {book.authors.includes(",") ? "Authors:" : "Author:"}
+            </strong>{" "}
+            {book.authors}
+          </p>
+            <p><strong>Publication:</strong> {book.publication}</p> 
+          </div>
+        </div>
+          ))}
+       </div>
       </Section>
 
       <Section title="Featured Publications">

@@ -204,9 +204,42 @@ export const profile = {
       impactFactor: "N/A"
     }
   ],
+
+ bookPublications: [
+  {
+    id: 1,
+    title: "Principles Of Business Organization and Management",
+    publication: "Kindle Direct Publishing",
+    authors: "Dr. M. Julias Ceasar"
+  },
+  {
+    id: 2,
+    title: "IT Enabled New Age Banking Indian Scenario",
+    publication: "Innovative International Publishers (IIP)",
+    authors: "Dr. M. Julias Ceasar, Dr. J. Vinoth Kumar"
+  },
+
+  {
+    id: 3,
+    title: "Modern Banking Services (Private and Public Services Banks)",
+    publication: "Archers and Elevators Publishing House",
+    authors: "Dr. M. Julias Ceasar, Dr. B. Sheeba Pearline"
+  }
+ ],
+
   featuredPublications: [
     {
-      id: 1,
+    id: 1,
+      title: "CUSTOMERS' ATTITUDE, OPINION AND LEVEL OF SATISFACTION ABOUT E-BANKING - A FIELD STUDY",
+      coAuthors: "Dr. M. JULIAS CEASAR , Dr. P. BERLIN KNGCY",
+      journal: "Advanced International Journal for Reasearch (AIJFR)",
+      year: "2025",
+      issn: "AIJFR 2505 1718 Online 3048-7641",
+      abstract: "E-banking is vital for any banking industry for its survival in the technologically competitive world. This transformation is the result of liberalization, privatisation and Globalisation policy initiated since 1991, in economic terms, the rapid strides in which banks are allowed to explore new business opportunities in the ever changing and technological environment. It also refers to the transactions carried out through phones, personal computers and internet and there are three sets of variables that are shaping Electronic transactions that can be highlighted as convenience, confidence and complexity. The study aims at evaluating e- banking services and the result highlight that there is no relationship between Convenience, Privacy, Fee and charges, Speed, Accessibility aspects and opinion of customers relating to e-banking.",
+      link: "https://www.aijfr.com/research-paper.php?id=1718"
+    },
+    {
+      id: 2,
       title: "AN ASSESSMENT OF ECO-FRIENDLY TOUR EXPERIENCE IN THE LIGHT OF QUALITY NATURE AND POLLUTION FREE LOCATIONS",
       coAuthors: "L.ANTONY, Dr. M. JULIAS CEASAR",
       journal: "Neuroquantology",
@@ -216,7 +249,7 @@ export const profile = {
       link: "https://www.neuroquantology.com/open-access/AN+ASSESSMENT+OF+ECO-FRIENDLY+TOUR+EXPERIENCE+IN+THE+LIGHT+OF+QUALITY+NATURE+AND+POLLUTION+FREE+LOCATIONS_13195/"
     },
     {
-      id: 2,
+      id: 3,
       title: "ATTITUDE AND PERCEPTION OF TOURISTS TOWARDS ECO-TOURISM: A COMPARATIVE STUDY IN TIRUNELVELI AND KANYAKUMARI DISTRICTS",
       coAuthors: "L.ANTONY, Dr. M. JULIAS CEASAR",
       journal: "IJFANS International Journal of Food and Nutritional Sciences",
