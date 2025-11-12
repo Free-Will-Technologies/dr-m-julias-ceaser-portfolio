@@ -41,26 +41,49 @@ export default function Publications() {
         </div>
       </Section>
 
-       <Section title="Book Publications">
-       <div className="publications-list">
-         {profile.bookPublications.map((book) => (
-           <div key={book.id} className="publication-item">
-            <h3 className="featured-title">{book.title}</h3>
-           <div className="featured-meta">
-             <p>
-            <strong>
-              {book.authors.includes(",") ? "Authors:" : "Author:"}
-            </strong>{" "}
-            {book.authors}
-          </p>
-            <p><strong>Publication:</strong> {book.publication}</p> 
+      <section className="section book-publications">
+  <div className="container">
+    <h2 className="section-title">Book Publications</h2>
+
+    <div className="publications-list">
+      {profile.bookPublications.map((book) => (
+        <div key={book.id} className="publication-item">
+          {/* Left: Details */}
+          <div className="book-details">
+            <h3>{book.title}</h3>
+            <p>
+              <strong>
+                {book.authors.includes(",") ? "Authors:" : "Author:"}
+              </strong>{" "}
+              {book.authors}
+            </p>
+            <p><strong>Publication:</strong> {book.publication}</p>
+            <p className="book-preface">{book.preface}</p>
+          </div>
+
+          {/* Right: Image */}
+          <div className="book-cover responsive">
+            <img
+              src={book.cover}
+              alt={`${book.title} cover`}
+              onLoad={(e) => {
+                const img = e.target;
+                img.classList.add(
+                  img.naturalWidth > img.naturalHeight
+                    ? "landscape"
+                    : "portrait"
+                );
+              }}
+            />
           </div>
         </div>
-          ))}
-       </div>
-      </Section>
+      ))}
+    </div>
+  </div>
+</section>
 
-      <Section title="Featured Publications">
+
+ <Section title="Featured Publications">
         <div className="featured-publications">
           {profile.featuredPublications.map((pub) => (
             <div key={pub.id} className="featured-publication">
