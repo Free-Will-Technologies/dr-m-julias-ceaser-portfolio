@@ -205,34 +205,6 @@ export const profile = {
     }
   ],
 
- bookPublications: [
-  {
-    id: 1,
-    title: "Principles Of Business Organization and Management",
-    publication: "Kindle Direct Publishing",
-    authors: "Dr. M. Julias Ceasar",
-    cover: "/assets/book1.jpg",
-    preface: "I am pleased to present this guide to “Business Organisation and Management.” It aims to provide a practical and relevant understanding of how businesses are structured, managed, and led in today’s fast-changing world. This book covers the core functions of management—planning, organizing, staffing, directing, and controlling—and explores key areas such as organizational behavior, strategic management, and ethics. It blends classic management theories with modern practices like digital transformation and emotional intelligence, helping readers connect timeless principles with contemporary challenges. Designed for both students and professionals, this book encourages critical thinking, application of concepts, and continuous learning. May it inspire you to become an effective, ethical, and forward-thinking leader."
-  },
-  {
-    id: 2,
-    title: "IT Enabled New Age Banking Indian Scenario",
-    publication: "Innovative International Publishers (IIP)",
-    authors: "Dr. M. Julias Ceasar, Dr. J. Vinoth Kumar",
-    cover: "/assets/book2.jpg",
-    preface: "Since the 1991 economic reforms, India has rapidly embraced technology across all sectors, with the banking industry emerging as one of the greatest beneficiaries. The shift from traditional banking to IT-enabled and digital systems has transformed the way customers access financial services such as withdrawals, deposits, fund transfers, loans, and investments. Innovations like online banking, mobile applications, ATMs, and digital payment platforms such as Paytm, Google Pay, and PhonePe have made banking faster, safer, and more customer-oriented. Technology has enhanced operational efficiency, expanded financial inclusion to rural and semi-urban areas, and enabled banks to offer personalized and data-driven services. With the growing influence of automation, artificial intelligence, and fintech collaborations, the banking sector continues to evolve toward greater transparency, convenience, and innovation. Today, India’s modern banking system stands as a symbol of the nation’s progress, driven by accessibility, 24×7 connectivity, and a commitment to delivering seamless financial experiences."
-  },
-
-  {
-    id: 3,
-    title: "Modern Banking Services (Private and Public Services Banks)",
-    publication: "Archers and Elevators Publishing House",
-    authors: "Dr. M. Julias Ceasar, Dr. B. Sheeba Pearline",
-    cover: "/assets/book3.jpg",
-    preface: "At the beginning of the 21st century, banks worldwide evolved into complex financial institutions offering diverse services to global markets. Technological innovation has transformed banking operations, helping institutions identify new opportunities, improve efficiency, and enhance customer satisfaction. Technology now serves as a key driver of productivity, profitability, and competitiveness. In India, financial sector reforms have reshaped the banking industry, shifting the focus toward customer-centric services with global standards. Growing competition has encouraged banks to adopt new marketing strategies and prioritize customer satisfaction through modern banking solutions. As an essential part of the financial system, the Indian banking sector plays a vital role in promoting business in both urban and rural areas. The ongoing reforms, initiated alongside economic liberalization, continue to strengthen the sector’s contribution to national development and financial growth."
-  }
- ],
-
   featuredPublications: [
     {
     id: 1,
@@ -265,6 +237,36 @@ export const profile = {
       link: "https://www.ijfans.org/issue-content/attitude-and-perception-of-tourists-towards-eco-tourism-a-comparative-study-in-tirunelveli-and-kanyakumari-districts-8885"
     }
   ],
+
+ bookPublications: [
+  {
+    id: 1,
+    title: "Principles Of Business Organization and Management",
+    publication: "Kindle Direct Publishing",
+    authors: "Dr. M. Julias Ceasar",
+    cover: "/assets/book1.jpg",
+    preface: "I am pleased to present this guide to “Business Organisation and Management.” It aims to provide a practical and relevant understanding of how businesses are structured, managed, and led in today’s fast-changing world. This book covers the core functions of management—planning, organizing, staffing, directing, and controlling—and explores key areas such as organizational behavior, strategic management, and ethics. It blends classic management theories with modern practices like digital transformation and emotional intelligence, helping readers connect timeless principles with contemporary challenges. Designed for both students and professionals, this book encourages critical thinking, application of concepts, and continuous learning. May it inspire you to become an effective, ethical, and forward-thinking leader."
+  },
+  {
+    id: 2,
+    title: "IT Enabled New Age Banking Indian Scenario",
+    publication: "Innovative International Publishers (IIP)",
+    authors: "Dr. M. Julias Ceasar, Dr. J. Vinoth Kumar",
+    cover: "/assets/book2.jpg",
+    preface: "Since the 1991 economic reforms, India has rapidly embraced technology across all sectors, with the banking industry emerging as one of the greatest beneficiaries. The shift from traditional banking to IT-enabled and digital systems has transformed the way customers access financial services such as withdrawals, deposits, fund transfers, loans, and investments. Innovations like online banking, mobile applications, ATMs, and digital payment platforms such as Paytm, Google Pay, and PhonePe have made banking faster, safer, and more customer-oriented. Technology has enhanced operational efficiency, expanded financial inclusion to rural and semi-urban areas, and enabled banks to offer personalized and data-driven services. With the growing influence of automation, artificial intelligence, and fintech collaborations, the banking sector continues to evolve toward greater transparency, convenience, and innovation. Today, India’s modern banking system stands as a symbol of the nation’s progress, driven by accessibility, 24×7 connectivity, and a commitment to delivering seamless financial experiences."
+  },
+
+  {
+    id: 3,
+    title: "Modern Banking Services (Private and Public Services Banks)",
+    publication: "Archers and Elevators Publishing House",
+    authors: "Dr. M. Julias Ceasar, Dr. B. Sheeba Pearline",
+    cover: "/assets/book3.jpg",
+    preface: "At the beginning of the 21st century, banks worldwide evolved into complex financial institutions offering diverse services to global markets. Technological innovation has transformed banking operations, helping institutions identify new opportunities, improve efficiency, and enhance customer satisfaction. Technology now serves as a key driver of productivity, profitability, and competitiveness. In India, financial sector reforms have reshaped the banking industry, shifting the focus toward customer-centric services with global standards. Growing competition has encouraged banks to adopt new marketing strategies and prioritize customer satisfaction through modern banking solutions. As an essential part of the financial system, the Indian banking sector plays a vital role in promoting business in both urban and rural areas. The ongoing reforms, initiated alongside economic liberalization, continue to strengthen the sector’s contribution to national development and financial growth."
+  },
+   
+ ],
+
   expertMemberships: [
     "Member of Board of Studies, St. Joseph's College (Autonomous), Tiruchirappalli (1999-2007)",
     "Member of Board of Studies, St. Xavier's College (Autonomous), Palayamkottai (2007-2018)",

@@ -55,6 +55,7 @@ export default function Navbar() {
           <NavLink to="/awards">Awards</NavLink>
           <NavLink to="/seminars">Seminars</NavLink>
           <NavLink to="/publications">Publications</NavLink>
+          <NavLink to="/Books">Books</NavLink>
           <NavLink to="/expert-memberships">Expert</NavLink>
           <NavLink to="/contact">Contact</NavLink>
         </nav>
@@ -68,6 +69,7 @@ export default function Navbar() {
           <NavLink to="/awards" onClick={() => setIsMenuOpen(false)}>Awards</NavLink>
           <NavLink to="/seminars" onClick={() => setIsMenuOpen(false)}>Seminars</NavLink>
           <NavLink to="/publications" onClick={() => setIsMenuOpen(false)}>Publications</NavLink>
+          <NavLink to="/Books" onClick={() => setIsMenuOpen(false)}>Books</NavLink>
           <NavLink to="/expert-memberships" onClick={() => setIsMenuOpen(false)}>Expert</NavLink>
           <NavLink to="/contact" onClick={() => setIsMenuOpen(false)}>Contact</NavLink>
         </nav>

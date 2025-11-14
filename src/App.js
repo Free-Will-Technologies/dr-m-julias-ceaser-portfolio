@@ -9,6 +9,7 @@ import Research from './pages/Research';
 import Awards from './pages/Awards';
 import Seminars from './pages/Seminars';
 import Publications from './pages/Publications';
+import Books from './pages/Books';
 import ExpertMemberships from './pages/ExpertMemberships';
 import Contact from './pages/Contact';
 
@@ -24,6 +25,7 @@ function App() {
         <Route path="/awards" element={<Awards />} />
         <Route path="/seminars" element={<Seminars />} />
         <Route path="/publications" element={<Publications />} />
+        <Route path="/Books" element={<Books />} />
         <Route path="/expert-memberships" element={<ExpertMemberships />} />
         <Route path="/contact" element={<Contact />} />
       </Routes>
