@@ -241,7 +241,7 @@ export const profile = {
  bookPublications: [
   {
     id: 1,
-    title: "Principles Of Business Organization and Management",
+    title: "Principles of Business Organization and Management",
     publication: "Kindle Direct Publishing",
     authors: "Dr. M. Julias Ceasar",
     cover: "/assets/book1.jpg",
@@ -263,6 +263,51 @@ export const profile = {
     authors: "Dr. M. Julias Ceasar, Dr. B. Sheeba Pearline",
     cover: "/assets/book3.jpg",
     preface: "At the beginning of the 21st century, banks worldwide evolved into complex financial institutions offering diverse services to global markets. Technological innovation has transformed banking operations, helping institutions identify new opportunities, improve efficiency, and enhance customer satisfaction. Technology now serves as a key driver of productivity, profitability, and competitiveness. In India, financial sector reforms have reshaped the banking industry, shifting the focus toward customer-centric services with global standards. Growing competition has encouraged banks to adopt new marketing strategies and prioritize customer satisfaction through modern banking solutions. As an essential part of the financial system, the Indian banking sector plays a vital role in promoting business in both urban and rural areas. The ongoing reforms, initiated alongside economic liberalization, continue to strengthen the sector’s contribution to national development and financial growth."
+  },
+
+  {
+    id: 4,
+    title: "Industry 5.0: A New Prospect for Business and Industrial Transformation",
+    publication: "PG and Research Department of Commerce, St. Joseph's College (Autonomous)",
+    authors: "Dr. M. Julias Ceasar",
+    cover: "/assets/book4.jpg",
+    preface: "At the dawn of a new industrial era, Industry 5.0 is redefining the landscape of global business and manufacturing. Moving beyond the automation and digitalization of Industry 4.0, this new phase emphasizes human-centric innovation, sustainability, and resilience. Integrating cutting-edge technologies like artificial intelligence, robotics, and the Internet of Things with human creativity and decision-making, Industry 5.0 fosters a collaborative environment where machines enhance rather than replace human effort. In India, this transformation is influencing industrial policies and business practices, urging organizations to adopt smarter, more adaptive, and environmentally responsible strategies. With a growing focus on personalized production, ethical technology use, and circular economy models, Indian industries are aligning with global standards to remain competitive and relevant. As a key contributor to economic progress, Industry 5.0 marks a pivotal shift toward inclusive growth, ensuring that innovation serves not just productivity, but also the well-being of society and the planet."
+  },
+
+  {
+    id: 5,
+    title: "Financial Inclusion",
+    publication: "PG and Research Department of Commerce, St. Xavier's College (Autonomous)",
+    authors: "Dr. M. Julias Ceasar",
+    cover: "/assets/book5.jpg",
+    preface: "At the beginning of the 21st century, financial inclusion emerged as a critical priority for developing economies aiming to promote equitable growth and reduce socio-economic disparities. The book Financial Inclusion by Dr. M. Julias Ceasar examines this transformation, highlighting how access to affordable and reliable financial services has become a cornerstone of sustainable development. Technological advancements, policy reforms, and innovative delivery channels have strengthened the ability of financial institutions to reach underserved and marginalized populations. In India, financial inclusion initiatives—supported by government schemes, digital banking, and regulatory frameworks—have significantly expanded the outreach of formal financial systems in both urban and rural regions. The book emphasizes how increased access to credit, savings, insurance, and digital payment systems empowers individuals, supports entrepreneurship, and enhances overall economic resilience. By presenting key challenges, institutional efforts, and emerging opportunities, Dr. Ceasar underscores the essential role of financial inclusion in strengthening national growth, social welfare, and long-term financial stability."
+  },
+
+  {
+    id: 6,
+    title: "Roles of Banks in Financial Inclusion",
+    publication: "",
+    authors: "Dr. M. Julias Ceasar",
+    cover: "/assets/book6.jpg",
+    preface: "At the onset of the modern financial era, banks have evolved from traditional intermediaries into dynamic institutions committed to supporting inclusive and sustainable economic development. The book Roles of Banks in Financial Inclusion by Dr. M. Julias Ceasar explores how the banking sector plays a pivotal role in extending financial services to underserved and unbanked populations. With technological advancements, improved regulatory frameworks, and customer-centric innovations, banks have significantly strengthened their outreach and service delivery models. In India, financial inclusion has become a national priority, encouraging banks to expand their operations into rural and remote regions, promote digital banking platforms, improve credit accessibility, and enhance financial literacy among vulnerable groups. The book highlights how these efforts contribute to poverty reduction, entrepreneurship development, and economic empowerment. By examining policy initiatives, operational challenges, and emerging opportunities, Dr. Ceasar emphasizes the essential role of banks in building an inclusive financial ecosystem that supports balanced growth, social progress, and long-term national development."
+  },
+
+  {
+    id: 7,
+    title: "Farmers' Perception towards Agricultural Finance",
+    publication: "",
+    authors: "Dr. M. Julias Ceasar",
+    cover: "/assets/book7.jpg",
+    preface: "At a time when agriculture remains the backbone of rural livelihoods, understanding farmers’ attitudes toward financial services has become essential for strengthening the agricultural economy. The book Farmers' Perception Towards Agricultural Finance by Dr. M. Julias Ceasar provides an in-depth analysis of how farmers view, access, and utilize various credit and financial support mechanisms. With increasing dependence on institutional finance for crop cultivation, inputs, technology adoption, and risk management, the role of financial institutions in supporting farmers has grown significantly. In India, government reforms, rural banking initiatives, and targeted credit programs have aimed to improve agricultural productivity and ease financial constraints faced by farmers. The book highlights how factors such as credit availability, interest rates, loan procedures, repayment terms, and financial awareness shape the overall perception of farmers toward agricultural finance. By examining their challenges, expectations, and level of satisfaction, Dr. Ceasar emphasizes the need for more accessible, transparent, and farmer-friendly financial systems."
+  },
+
+  {
+    id: 8,
+    title: "New Age Banking (Technology enabled Digital Transformation and its Impact)",
+    publication: "",
+    authors: "Dr. M. Julias Ceasar",
+    cover: "/assets/book8.jpg",
+    preface: "In the rapidly evolving financial landscape of the 21st century, technology has emerged as a transformative force reshaping the nature, scope, and efficiency of banking operations. The book New Age Banking (Technology Enabled Digital Transformation and Its Impact) by Dr. M. Julias Ceasar examines how digital innovation is redefining traditional banking systems and introducing a new era of smart, agile, and customer-focused financial services. With advancements such as online banking, mobile applications, artificial intelligence, blockchain, and automated service platforms, banks are now better equipped to enhance service delivery, strengthen security, and improve operational efficiency. In India, digital transformation has accelerated due to government initiatives, fintech collaborations, and a growing demand for convenient and real-time banking solutions. The book highlights how these technological shifts have expanded financial access, empowered customers, supported regulatory compliance, and boosted overall competitiveness within the sector."
   },
    
  ],

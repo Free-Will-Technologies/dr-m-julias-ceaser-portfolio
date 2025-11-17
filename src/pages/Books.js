@@ -30,7 +30,12 @@ export default function Publications() {
               </strong>{" "}
               {book.authors}
             </p>
-            <p><strong>Publication:</strong> {book.publication}</p>
+           {book.publication && book.publication.trim() !== "" && (
+             <p>
+             <strong>Publication:</strong> {book.publication}
+             </p>
+            )}
+
             <p className="book-preface">{book.preface}</p>
           </div>
 
