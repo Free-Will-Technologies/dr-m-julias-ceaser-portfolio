@@ -100,7 +100,7 @@ export const profile = {
     journalPapers: 65,
     papersPresented: 35,
     eventsAttended: 50,
-    phdProduced: 12,
+    phdProduced: 13,
     internationalVisits: 1
   },
   positions: [
