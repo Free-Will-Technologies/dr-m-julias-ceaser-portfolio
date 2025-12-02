@@ -88,6 +88,29 @@ export const profile = {
     "ICSSR National Conference: Digital Transformation and New Age Banking (29–30 Mar 2022)",
     "ICSSR National Conference: Industry 5.0 (18–19 Jul 2024)"
   ],
+
+  lectures:[
+    {
+      title: "Introduction to management account",
+      url: "https://youtu.be/pxH1Hpa4SrM",
+    },
+    {
+      title: "Research for commerce student about project",
+      url: "https://youtu.be/MQDyOmo47nc?si=M5SLHnjJImJ7dIix",
+    },
+    {
+      title: "INCOME TAX   Introduction to residential area",
+      url: "https://youtu.be/FXBlA83pMdo",
+    },
+    {
+      title: "Education 5.0",
+      url: "https://youtu.be/T_RBPB3eNs4?si=AoXLeqmKaN8BpA0M",
+    },
+    {
+      title: "Budget 2022",
+      url: "https://youtu.be/eX599kv5eHE?si=qw2vbLrf8l1JFzWA",
+    },
+  ],
   awards: [
     "Bestowed with Young social scientist award by Indian academic Researchers Association",
     "Recipient of Best Researcher Award from St. Xavier's College (Autonomous) Palayamkottai consecutively for 2 years in appreciation for the contributions in Research and publications.",

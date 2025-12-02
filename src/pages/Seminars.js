@@ -9,6 +9,38 @@ export default function Seminars() {
           {profile.seminarsOrganized.map((s) => (<li key={s}>{s}</li>))}
         </ul>
       </Section>
+
+<section>
+  <div className="container">
+    <h2 className="section-title">Specialized Lectures</h2>
+
+    <div className="lectures">
+      {profile.lectures.map((lec, index) => {
+        const embedUrl = lec.url
+          .replace("watch?v=", "embed/")
+          .replace("youtu.be/", "youtube.com/embed/");
+
+        return (
+          <div className="lecture-item" key={index}>
+            <div className="lecture-video">
+              <iframe
+                src={embedUrl}
+                title={lec.title}
+                allowFullScreen
+              ></iframe>
+            </div>
+
+            <p className="lecture title">{lec.title}</p>
+          </div>
+        );
+      })}
+    </div>
+  </div>
+</section>
+
+
+
+
     </main>
   );
 }
