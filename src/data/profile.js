@@ -2,10 +2,11 @@
 export const profile = {
   name: "Dr. M. JULIAS CEASAR",
   titles: [
-    "Dean, School of Commerce",
-    "Associate Professor of PG and Research Department of Commerce"
+    "Dean, School of Commerce • Associate Professor,",
+    "PG and Research Department of Commerce,",
+    "St. Joseph's College (Autonomous), Tiruchirappalli"
   ],
-  email: "juliasceasar_co1@mail.sjctni.edu",
+  email:  ["julius.sxc@gmail.com", "juliasceasar_co1@mail.sjctni.edu"],
   phones: ["+91 94431 10877", " +91 8056608580"],
   institution: "St. Joseph’s College (Autonomous), Tiruchirappalli - 627 002",
   objective:
@@ -23,7 +24,7 @@ export const profile = {
     total: "28+ years",
     roles: [
       {
-        role: "Lecturer",
+        role: "Lecturer", 
         dept: "PG & Research Department of Commerce",
         org: "St. Joseph’s College (Autonomous), Tiruchirappalli",
         period: "24 Nov 1996 – 22 Oct 2007"
@@ -217,14 +218,6 @@ export const profile = {
       month: "2024",
       volume: "Volume: 21, No: S1",
       impactFactor: "N/A"
-    },
-    {
-      id: 9,
-      journal: "Migration Letters",
-      title: "Migration Letters Vol. 21 No. S2(2024)",
-      month: "2024",
-      volume: "Volume: 21, No: S2",
-      impactFactor: "N/A"
     }
   ],
 
@@ -310,7 +303,7 @@ export const profile = {
     id: 6,
     title: "Roles of Banks in Financial Inclusion",
     publication: "",
-    authors: "Dr. M. Julias Ceasar",
+    authors: "Dr. M. Julias Ceasar , Dr. A. Selathmary Vetriselvi",
     cover: "/assets/book6.jpg",
     preface: "At the onset of the modern financial era, banks have evolved from traditional intermediaries into dynamic institutions committed to supporting inclusive and sustainable economic development. The book Roles of Banks in Financial Inclusion by Dr. M. Julias Ceasar explores how the banking sector plays a pivotal role in extending financial services to underserved and unbanked populations. With technological advancements, improved regulatory frameworks, and customer-centric innovations, banks have significantly strengthened their outreach and service delivery models. In India, financial inclusion has become a national priority, encouraging banks to expand their operations into rural and remote regions, promote digital banking platforms, improve credit accessibility, and enhance financial literacy among vulnerable groups. The book highlights how these efforts contribute to poverty reduction, entrepreneurship development, and economic empowerment. By examining policy initiatives, operational challenges, and emerging opportunities, Dr. Ceasar emphasizes the essential role of banks in building an inclusive financial ecosystem that supports balanced growth, social progress, and long-term national development."
   },
@@ -319,7 +312,7 @@ export const profile = {
     id: 7,
     title: "Farmers' Perception towards Agricultural Finance",
     publication: "",
-    authors: "Dr. M. Julias Ceasar",
+    authors: "Dr. M. Julias Ceasar , Dr. K. Mariappan",
     cover: "/assets/book7.jpg",
     preface: "At a time when agriculture remains the backbone of rural livelihoods, understanding farmers’ attitudes toward financial services has become essential for strengthening the agricultural economy. The book Farmers' Perception Towards Agricultural Finance by Dr. M. Julias Ceasar provides an in-depth analysis of how farmers view, access, and utilize various credit and financial support mechanisms. With increasing dependence on institutional finance for crop cultivation, inputs, technology adoption, and risk management, the role of financial institutions in supporting farmers has grown significantly. In India, government reforms, rural banking initiatives, and targeted credit programs have aimed to improve agricultural productivity and ease financial constraints faced by farmers. The book highlights how factors such as credit availability, interest rates, loan procedures, repayment terms, and financial awareness shape the overall perception of farmers toward agricultural finance. By examining their challenges, expectations, and level of satisfaction, Dr. Ceasar emphasizes the need for more accessible, transparent, and farmer-friendly financial systems."
   },
@@ -336,10 +329,15 @@ export const profile = {
  ],
 
   expertMemberships: [
+    "Member Academic Audit Committee, The American College, Madurai (2024)",
+    "Member Academic Audit Committee, PSG College (Autonomous), coimbatore (2019)",
+    "Member Academic Audit Committee, PSG Krishnammal College for Women, Coimbatore (2024 - 2025)",
+    "Member Academic Audit Committee, St John's College (2023 - 2025)",
     "Member of Board of Studies, St. Joseph's College (Autonomous), Tiruchirappalli (1999-2007)",
     "Member of Board of Studies, St. Xavier's College (Autonomous), Palayamkottai (2007-2018)",
     "Subject Expert for Board of Studies, Arulananadar College (Autonomous), Karumathur - Madurai (2012-2015)",
     "Subject Expert for Board of Studies, Jeyaraj Annapakiyam College (Autonomous), Periyakkulam - Theni District (2014-2017)",
+    "Subject Expert for Board of Studies, Jeyaraj Annapakiyam College (Autonomous), Periyakkulam - Theni District (2024-2027)",
     "Subject Expert for Board of Studies, Holy Cross College (Autonomous), Nagercoil (2016-2019)",
     "Subject Expert for Board of Studies, St. Joseph's College (Autonomous), Tiruchirappalli (2017-2018)",
     "Subject Expert for Board of Studies, St. Mary's College (Autonomous), Thoothukudi (2020-2022)",

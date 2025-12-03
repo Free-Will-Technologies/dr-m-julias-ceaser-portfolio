@@ -1552,3 +1552,33 @@ input:focus, textarea:focus {
     font-size: 22px;
   }
 }
+
+
+
+/*****************************
+****** CONTACT ***************
+*****************************/
+.email-link {
+  text-decoration: none;
+  color:#006aff   /* optional: keeps normal text color */
+}
+
+
+.cv-container {
+                   
+}
+
+.cv-container p{
+  font-size: larger;
+}
+
+/* Mobile (max 600px) */
+@media (max-width: 600px) {
+  .cv-container {
+          
+  }
+  .cv-container p{
+  font-size: large;
+}
+
+}

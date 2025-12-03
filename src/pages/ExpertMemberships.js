@@ -8,7 +8,7 @@ export default function ExpertMemberships() {
         <div className="expert-memberships">
           <p className="section-intro">
             Dr. M. Julias Ceasar has served as an expert member and subject expert for various 
-            Board of Studies across multiple autonomous colleges in Tamil Nadu, contributing 
+            Boards of Studies across multiple autonomous colleges in Tamil Nadu, contributing 
             significantly to academic governance and curriculum development.
           </p>
           

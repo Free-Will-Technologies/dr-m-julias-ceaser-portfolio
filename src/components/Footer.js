@@ -7,8 +7,8 @@ export default function Footer() {
             All rights reserved @Free Will Technologies.
           </p>
           <p className="footer-email">
-            <a href="mailto:juliasceasar_co1@mail.sjctni.edu">
-              juliasceasar_co1@mail.sjctni.edu
+            <a href="mailto:julius.sxc@gmail.com">
+              julius.sxc@gmail.com
             </a>
           </p>
         </div>

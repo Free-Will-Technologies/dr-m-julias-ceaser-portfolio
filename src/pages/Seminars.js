@@ -10,9 +10,8 @@ export default function Seminars() {
         </ul>
       </Section>
 
-<section>
+<Section title="Specialized Lectures">
   <div className="container">
-    <h2 className="section-title">Specialized Lectures</h2>
 
     <div className="lectures">
       {profile.lectures.map((lec, index) => {
@@ -36,7 +35,7 @@ export default function Seminars() {
       })}
     </div>
   </div>
-</section>
+</Section>
 
 
 
