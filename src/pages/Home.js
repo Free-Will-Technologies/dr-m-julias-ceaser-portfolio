@@ -7,15 +7,6 @@ export default function Home() {
     <main>
       <Hero />
 
-       <Section title='CV (Curriculum Vitae)'>
-        <div className='cv-container'>
-          <p ><strong>Dr. M. Julias Ceasar's CV</strong></p>
-           <div className="hero-cta">
-             <a className="btn primary" href="/Dr. M. Julias Ceaser's CV.pdf" download>Download</a>
-           </div>
-        </div>
-       </Section>
-
       <Section title="At a Glance">
         <ul className="stats">
           <li><strong>{profile.experience.total}</strong><span>Experience</span></li>

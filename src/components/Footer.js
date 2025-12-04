@@ -4,7 +4,7 @@ export default function Footer() {
       <div className="container footer-inner">
         <div className="footer-content">
           <p className="footer-text">
-            All rights reserved @Free Will Technologies.
+            All rights reserved <a href="https://freewilltech.in/">@Free Will Technologies</a>
           </p>
           <p className="footer-email">
             <a href="mailto:julius.sxc@gmail.com">

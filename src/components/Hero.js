@@ -25,6 +25,7 @@ export default function Hero() {
             <div className="hero-cta">
               <a className="btn primary" href="mailto:julius.sxc@gmail.com">Email</a>
               <a className="btn" href="/publications">Publications</a>
+              <a className="btn primary" href="/Dr. M. Julias Ceaser's CV.pdf" download>Download CV</a>
             </div>
           </div>
           <div className="hero-image">

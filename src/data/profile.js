@@ -330,7 +330,7 @@ export const profile = {
 
   expertMemberships: [
     "Member Academic Audit Committee, The American College, Madurai (2024)",
-    "Member Academic Audit Committee, PSG College (Autonomous), coimbatore (2019)",
+    "Member Academic Audit Committee, PSG College (Autonomous), Coimbatore (2019)",
     "Member Academic Audit Committee, PSG Krishnammal College for Women, Coimbatore (2024 - 2025)",
     "Member Academic Audit Committee, St John's College (2023 - 2025)",
     "Member of Board of Studies, St. Joseph's College (Autonomous), Tiruchirappalli (1999-2007)",
