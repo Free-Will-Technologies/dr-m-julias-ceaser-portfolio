@@ -156,31 +156,13 @@ export const profile = {
   ],
   recentPublications: [
     {
-      id: 1,
-      journal: "International Journal of Engineering, Technology and Management",
-      title: "Information Technology and Innovation enabled Modern Banking",
-      month: "Feb 2022",
-      volume: "Volume: 6, Pp: 174-190",
-      impactFactor: "5.004"
+      journal: "Migration Letters Scopus",
+      title: "The Role of Consumer Engagement Via Social Media; The Influence of Corporate Social Responsibility on Consumer Purchase Intention; An Empirical Study",
+      month: "January 2024",
+      volume: "Volume: 21, No: S1 (2024), pp. 933-941",
+      impactFactor: "4.6"
     },
-    {
-      id: 2,
-      journal: "Gradiva Review Journal",
-      title: "Impact of Information Technology on various factors of New Age Banking",
-      month: "Feb 2022",
-      volume: "Volume: 8, Pp: 464-474",
-      impactFactor: "N/A"
-    },
-    {
-      id: 3,
-      journal: "Utkal Historical Research",
-      title: "Attitude, Opinion and level of satisfaction about e-Banking features among Customers",
-      month: "Feb 2022",
-      volume: "Volume: 2, Pp: 73-88",
-      impactFactor: "N/A"
-    },
-    {
-      id: 4,
+     {
       journal: "Journal of History Congress (UGC Care Group 1)",
       title: "Attitude, Opinion and level of satisfaction about e-Banking features among Customers",
       month: "March 2023",
@@ -188,7 +170,27 @@ export const profile = {
       impactFactor: "N/A"
     },
     {
-      id: 5,
+      journal: "International Journal of Engineering, Technology and Management",
+      title: "Information Technology and Innovation enabled Modern Banking",
+      month: "Feb 2022",
+      volume: "Volume: 6, Pp: 174-190",
+      impactFactor: "5.004"
+    },
+    {
+      journal: "Gradiva Review Journal",
+      title: "Impact of Information Technology on various factors of New Age Banking",
+      month: "Feb 2022",
+      volume: "Volume: 8, Pp: 464-474",
+      impactFactor: "N/A"
+    },
+    {
+      journal: "Utkal Historical Research",
+      title: "Attitude, Opinion and level of satisfaction about e-Banking features among Customers",
+      month: "Feb 2022",
+      volume: "Volume: 2, Pp: 73-88",
+      impactFactor: "N/A"
+    },
+    {
       journal: "Journal of Maharaja Sayajirao, University of Baroda (UGC Care Group 1)",
       title: "Knowledge and preference of post Financial Sector Reform Scenario Professionals towards various Investment opportunities",
       month: "April 2021",
@@ -196,34 +198,16 @@ export const profile = {
       impactFactor: "2.001"
     },
     {
-      id: 6,
       journal: "International Journal of Scientific Research and Engineering Development",
       title: "Conflict management: A win-win Strategy for Organization Effectiveness in the Changing Global Environment",
       month: "July 2020",
       volume: "Volume: 3, Pp: 1-12",
       impactFactor: "5.1"
     },
-    {
-      id: 7,
-      journal: "Migration Letters Scopus",
-      title: "The Role of Consumer Engagement Via Social Media; The Influence of Corporate Social Responsibility on Consumer Purchase Intention; An Empirical Study",
-      month: "January 2024",
-      volume: "Volume: 21, No: S1 (2024), pp. 933-941",
-      impactFactor: "4.6"
-    },
-    {
-      id: 8,
-      journal: "Migration Letters",
-      title: "Migration Letters Vol. 21 No. S1(2024)",
-      month: "2024",
-      volume: "Volume: 21, No: S1",
-      impactFactor: "N/A"
-    }
   ],
 
   featuredPublications: [
     {
-    id: 1,
       title: "CUSTOMERS' ATTITUDE, OPINION AND LEVEL OF SATISFACTION ABOUT E-BANKING - A FIELD STUDY",
       coAuthors: "Dr. M. JULIAS CEASAR , Dr. P. BERLIN KNGCY",
       journal: "Advanced International Journal for Reasearch (AIJFR)",
@@ -233,7 +217,6 @@ export const profile = {
       link: "https://www.aijfr.com/research-paper.php?id=1718"
     },
     {
-      id: 2,
       title: "AN ASSESSMENT OF ECO-FRIENDLY TOUR EXPERIENCE IN THE LIGHT OF QUALITY NATURE AND POLLUTION FREE LOCATIONS",
       coAuthors: "L.ANTONY, Dr. M. JULIAS CEASAR",
       journal: "Neuroquantology",
@@ -243,7 +226,6 @@ export const profile = {
       link: "https://www.neuroquantology.com/open-access/AN+ASSESSMENT+OF+ECO-FRIENDLY+TOUR+EXPERIENCE+IN+THE+LIGHT+OF+QUALITY+NATURE+AND+POLLUTION+FREE+LOCATIONS_13195/"
     },
     {
-      id: 3,
       title: "ATTITUDE AND PERCEPTION OF TOURISTS TOWARDS ECO-TOURISM: A COMPARATIVE STUDY IN TIRUNELVELI AND KANYAKUMARI DISTRICTS",
       coAuthors: "L.ANTONY, Dr. M. JULIAS CEASAR",
       journal: "IJFANS International Journal of Food and Nutritional Sciences",
@@ -256,7 +238,6 @@ export const profile = {
 
  bookPublications: [
   {
-    id: 1,
     title: "Principles of Business Organization and Management",
     publication: "Kindle Direct Publishing",
     authors: "Dr. M. Julias Ceasar",
@@ -264,7 +245,6 @@ export const profile = {
     preface: "I am pleased to present this guide to “Business Organisation and Management.” It aims to provide a practical and relevant understanding of how businesses are structured, managed, and led in today’s fast-changing world. This book covers the core functions of management—planning, organizing, staffing, directing, and controlling—and explores key areas such as organizational behavior, strategic management, and ethics. It blends classic management theories with modern practices like digital transformation and emotional intelligence, helping readers connect timeless principles with contemporary challenges. Designed for both students and professionals, this book encourages critical thinking, application of concepts, and continuous learning. May it inspire you to become an effective, ethical, and forward-thinking leader."
   },
   {
-    id: 2,
     title: "IT Enabled New Age Banking Indian Scenario",
     publication: "Innovative International Publishers (IIP)",
     authors: "Dr. M. Julias Ceasar, Dr. J. Vinoth Kumar",
@@ -273,7 +253,6 @@ export const profile = {
   },
 
   {
-    id: 3,
     title: "Modern Banking Services (Private and Public Services Banks)",
     publication: "Archers and Elevators Publishing House",
     authors: "Dr. M. Julias Ceasar, Dr. B. Sheeba Pearline",
@@ -282,7 +261,6 @@ export const profile = {
   },
 
   {
-    id: 4,
     title: "Industry 5.0: A New Prospect for Business and Industrial Transformation",
     publication: "PG and Research Department of Commerce, St. Joseph's College (Autonomous)",
     authors: "Dr. M. Julias Ceasar",
@@ -291,7 +269,6 @@ export const profile = {
   },
 
   {
-    id: 5,
     title: "Financial Inclusion",
     publication: "PG and Research Department of Commerce, St. Xavier's College (Autonomous)",
     authors: "Dr. M. Julias Ceasar",
@@ -300,7 +277,6 @@ export const profile = {
   },
 
   {
-    id: 6,
     title: "Roles of Banks in Financial Inclusion",
     publication: "",
     authors: "Dr. M. Julias Ceasar , Dr. A. Selathmary Vetriselvi",
@@ -309,7 +285,6 @@ export const profile = {
   },
 
   {
-    id: 7,
     title: "Farmers' Perception towards Agricultural Finance",
     publication: "",
     authors: "Dr. M. Julias Ceasar , Dr. K. Mariappan",
@@ -318,7 +293,6 @@ export const profile = {
   },
 
   {
-    id: 8,
     title: "New Age Banking (Technology enabled Digital Transformation and its Impact)",
     publication: "",
     authors: "Dr. M. Julias Ceasar",
@@ -329,21 +303,21 @@ export const profile = {
  ],
 
   expertMemberships: [
-    "Member Academic Audit Committee, The American College, Madurai (2024)",
-    "Member Academic Audit Committee, PSG College (Autonomous), Coimbatore (2019)",
-    "Member Academic Audit Committee, PSG Krishnammal College for Women, Coimbatore (2024 - 2025)",
-    "Member Academic Audit Committee, St John's College (2023 - 2025)",
-    "Member of Board of Studies, St. Joseph's College (Autonomous), Tiruchirappalli (1999-2007)",
-    "Member of Board of Studies, St. Xavier's College (Autonomous), Palayamkottai (2007-2018)",
-    "Subject Expert for Board of Studies, Arulananadar College (Autonomous), Karumathur - Madurai (2012-2015)",
-    "Subject Expert for Board of Studies, Jeyaraj Annapakiyam College (Autonomous), Periyakkulam - Theni District (2014-2017)",
     "Subject Expert for Board of Studies, Jeyaraj Annapakiyam College (Autonomous), Periyakkulam - Theni District (2024-2027)",
-    "Subject Expert for Board of Studies, Holy Cross College (Autonomous), Nagercoil (2016-2019)",
-    "Subject Expert for Board of Studies, St. Joseph's College (Autonomous), Tiruchirappalli (2017-2018)",
-    "Subject Expert for Board of Studies, St. Mary's College (Autonomous), Thoothukudi (2020-2022)",
+    "Member Academic Audit Committee, PSG Krishnammal College for Women, Coimbatore (2024 - 2025)",
+    "Member Academic Audit Committee, The American College, Madurai (2024)",
+    "University Nominee for Board of Studies, Holy Cross College (Autonomous), Nagercoil (2023-2026)",
+    "Member Academic Audit Committee, St John's College (2023 - 2025)",
     "University Nominee for Board of Studies, St. Mary's College (Autonomous), Thoothukudi (2022-2025)",
     "Subject Expert for Board of Studies, Sadakathulla Appa College (Autonomous), Palayamkottai, Tirunelveli (2021-2024)",
-    "University Nominee for Board of Studies, Holy Cross College (Autonomous), Nagercoil (2023-2026)"
+    "Subject Expert for Board of Studies, St. Mary's College (Autonomous), Thoothukudi (2020-2022)",
+    "Member Academic Audit Committee, PSG College (Autonomous), Coimbatore (2019)",
+    "Subject Expert for Board of Studies, St. Joseph's College (Autonomous), Tiruchirappalli (2017-2018)",
+    "Subject Expert for Board of Studies, Holy Cross College (Autonomous), Nagercoil (2016-2019)",
+    "Subject Expert for Board of Studies, Jeyaraj Annapakiyam College (Autonomous), Periyakkulam - Theni District (2014-2017)",
+    "Subject Expert for Board of Studies, Arulananadar College (Autonomous), Karumathur - Madurai (2012-2015)",
+    "Member of Board of Studies, St. Xavier's College (Autonomous), Palayamkottai (2007-2018)",
+    "Member of Board of Studies, St. Joseph's College (Autonomous), Tiruchirappalli (1999-2007)", 
   ],
   personal: {
     dob: "31 July 1973",

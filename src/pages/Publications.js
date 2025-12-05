@@ -18,8 +18,8 @@ export default function Publications() {
 
       <Section title="Latest Publications">
         <div className="publications-list">
-          {profile.recentPublications.map((pub) => (
-            <div key={pub.id} className="publication-item">
+          {profile.recentPublications.map((pub, index) => (
+            <div key={index} className="publication-item">
               <div className="publication-header">
                 <h3 className="publication-title">{pub.title}</h3>
                 <span className="publication-journal">{pub.journal}</span>
@@ -40,8 +40,8 @@ export default function Publications() {
 
   <Section title="Featured Publications">
         <div className="featured-publications">
-          {profile.featuredPublications.map((pub) => (
-            <div key={pub.id} className="featured-publication">
+          {profile.featuredPublications.map((pub, index) => (
+            <div key={index} className="featured-publication">
               <h3 className="featured-title">{pub.title}</h3>
               <div className="featured-meta">
                 <p><strong>Co-Authors:</strong> {pub.coAuthors}</p>

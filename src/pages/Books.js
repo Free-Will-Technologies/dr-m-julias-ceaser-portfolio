@@ -19,8 +19,8 @@ export default function Publications() {
     <h2 className="section-title">Book Publications</h2>
 
     <div className="publications-list">
-      {profile.bookPublications.map((book) => (
-        <div key={book.id} className="publication-item">
+      {profile.bookPublications.map((book, index) => (
+        <div key={index} className="publication-item">
           {/* Left: Details */}
           <div className="book-details">
             <h3>{book.title}</h3>
