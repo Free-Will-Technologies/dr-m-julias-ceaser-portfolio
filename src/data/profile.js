@@ -8,7 +8,7 @@ export const profile = {
   ],
   email:  ["julius.sxc@gmail.com", "juliasceasar_co1@mail.sjctni.edu"],
   phones: ["+91 94431 10877", " +91 8056608580"],
-  institution: "St. Joseph’s College (Autonomous), Tiruchirappalli - 627 002",
+  institution: "St. Joseph’s College (Autonomous), Tiruchirappalli - 620 002",
   objective:
     "To be a teacher, guide, counselor and an inspiration to all the young associating with me in the process of learning.",
   education: [
