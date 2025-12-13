@@ -15,6 +15,18 @@ export default function Experience() {
           ))}
         </ul>
       </Section>
+
+      <Section title="Other important assignments">
+        <ul className="timeline">
+          {profile.experience.otherAssignments.map((exp,index) => (
+            <li key={index}>
+              <h3>{exp.role}</h3>
+               <p> {exp.org}</p>
+              <span className="time">{exp.period}</span>
+            </li>
+          ))}
+        </ul>
+      </Section>
     </main>
   );
 }

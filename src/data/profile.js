@@ -47,6 +47,79 @@ export const profile = {
         org: "St. Joseph’s College (Autonomous), Tiruchirappalli",
         period: "23 Feb 2020 – Present"
       }
+    ],
+
+    otherAssignments : [
+      {
+        role: "Dean",
+        org: "School of Commerce, St. Joseph’s College (Autonomous), Tiruchirappalli",
+        period: "2025 – Present"
+      },
+      {
+         role: "Dean",
+        org: "School of Management Studies, St. Joseph’s College (Autonomous), Tiruchirappalli",
+        period: "2023 – 2025"
+      },
+      {
+        role: "Dean",
+        org: "Departments of arts, St. Xavier's College (Autonomous), Palayamkottai",
+        period: "2014 - 2017"
+      },
+      {
+        role: "NSS Programe officer",
+        org: "St. Xavier's College (Autonomous), Palayamkottai",
+        period: "2012 - 2015"
+      },
+      {
+        role: "Member Board of studies and academic audit",
+        org: "more than 10 colleges in Tamilnadu",
+        period: ""
+      },
+      {
+        role: "Coordinator, Micro Quality Cell (MQC)",
+        org: "Department of Commerce, St. Joseph’s College (Autonomous), Tiruchirappalli",
+        period: "2019 - 2023"
+      },
+      {
+        role: "Coordinator",
+        org: "Consumer Club, St. Joseph’s College (Autonomous), Tiruchirappalli",
+        period: "2019 - 2022"
+      },
+      {
+        role: "Staff Coordinator",
+        org: "Association activities ",
+        period: "more than five years"
+      },
+      {
+        role: "Assistant Director",
+        org: "SH Hostel, St. Joseph’s College (Autonomous), Tiruchirappalli",
+        period: "1997 - 1999"
+      },
+      {
+        role: "Staff Coordinator",
+        org: "Tally Computer course offered by CSC",
+        period: ""
+      },
+      {
+        role: "Member",
+        org: "Career Guidance & Placement Cells, Games & Sports Committee and Environment",
+        period: ""
+      },
+      {
+        role: "Member",
+        org: "Awareness Club",
+        period: ""
+      },
+      {
+        role: "Staff Coordinator",
+        org: " PG – STAND (Social Training and Action for Neighbourhood Development)",
+        period: "2008 - 2009"
+      },
+      {
+        role: "Guest Faculty",
+        org: "various Management Institutes in Tamil Nadu",
+        period: ""
+      },
     ]
   },
   specialization: [
