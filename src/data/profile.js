@@ -282,7 +282,7 @@ export const profile = {
   featuredPublications: [
     {
       title: "CUSTOMERS' ATTITUDE, OPINION AND LEVEL OF SATISFACTION ABOUT E-BANKING - A FIELD STUDY",
-      coAuthors: "Dr. M. JULIAS CEASAR , Dr. P. BERLIN KNGCY",
+      coAuthors: "Dr. M. JULIAS CEASAR , Dr. P. BERLIN KINGCY",
       journal: "Advanced International Journal for Reasearch (AIJFR)",
       year: "2025",
       issn: "AIJFR 2505 1718 Online 3048-7641",

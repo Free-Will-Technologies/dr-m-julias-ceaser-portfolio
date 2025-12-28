@@ -44,7 +44,7 @@ export default function Publications() {
             <div key={index} className="featured-publication">
               <h3 className="featured-title">{pub.title}</h3>
               <div className="featured-meta">
-                <p><strong>Co-Authors:</strong> {pub.coAuthors}</p>
+                <p><strong>Authors:</strong> {pub.coAuthors}</p>
                 <p><strong>Journal:</strong> {pub.journal}</p>
                 <p><strong>Year:</strong> {pub.year}</p>
                 {pub.doi && <p><strong>DOI:</strong> {pub.doi}</p>}
