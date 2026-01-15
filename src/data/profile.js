@@ -298,7 +298,7 @@ export const profile = {
     
     {
       title: "ENTREPRENEURIAL RISK-TAKING AND CULTURAL VALUES: A GLOBAL BEHAVIORAL PERSPECTIVE",
-      coAuthors: "Dr. M. JULIAS CEASAR , KARTHIK N L , SRINIVASARAO PALETI , and Dr SUSHEELA DEVI B DEVARU",
+      coAuthors: "Dr. M. JULIAS CEASAR , KARTHIK N L , SRINIVASARAO PALETI , Dr SUSHEELA DEVI B DEVARU",
       journal: "The International tax Journal",
       year: "2025",
       issn: "ISSN: 0097-7314 E-ISSN: 3066-2370",
