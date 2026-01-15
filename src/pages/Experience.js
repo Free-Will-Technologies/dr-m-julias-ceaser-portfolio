@@ -4,7 +4,7 @@ import { profile } from '../data/profile';
 export default function Experience() {
   return (
     <main>
-      <Section title="Teaching Experience">
+      <Section title="Experience and Positions (Past and Present)">
         <ul className="timeline">
           {profile.experience.roles.map((r) => (
             <li key={r.role + r.period}>

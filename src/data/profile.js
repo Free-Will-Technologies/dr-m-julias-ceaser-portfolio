@@ -164,6 +164,11 @@ export const profile = {
   ],
 
   lectures:[
+
+    {
+      title: "Grant Writing and Funding Proposals: Strategies for Success",
+      url: "https://youtu.be/HsAESTD8GT8",
+    },
     {
       title: "Introduction to management account",
       url: "https://youtu.be/pxH1Hpa4SrM",
@@ -280,6 +285,27 @@ export const profile = {
   ],
 
   featuredPublications: [
+    
+    {
+      title: "BLOCKCHAIN AND THE FUTURE OF ACCOUNTING: A CRITICAL EXAMINATION OF PROMISE VERSUS PRACTICE",
+      coAuthors: "Dr. M. JULIAS CEASAR , MIHIR HARISHBHAI RAJYAGURU , TUSHTI SHARMA , SUSHEELA DEVI B DEVARU , YOGESH H. BHOSALE",
+      journal: "The International tax Journal",
+      year: "2025",
+      issn: "ISSN: 0097-7314 E-ISSN: 3066-2370",
+      abstract: "Blockchain is often promoted as a transformative tool for accounting due to its transparency, immutability, and automation potential. However, real-world adoption remains limited by technical, regulatory, organisational, and ethical challenges. This paper examines the gap between blockchain’s theoretical benefits and its practical use in accounting, auditing, and financial reporting. While blockchain improves traceability and internal controls, issues such as scalability, interoperability, governance, and data privacy hinder widespread implementation. The study concludes that blockchain will not replace accountants but will support hybrid human–AI–blockchain systems, with its future dependent on regulatory clarity and institutional readiness.",
+      link:"https://internationaltaxjournal.online/index.php/itj/article/view/479"
+    }, 
+    
+    {
+      title: "ENTREPRENEURIAL RISK-TAKING AND CULTURAL VALUES: A GLOBAL BEHAVIORAL PERSPECTIVE",
+      coAuthors: "Dr. M. JULIAS CEASAR , KARTHIK N L , SRINIVASARAO PALETI , and Dr SUSHEELA DEVI B DEVARU",
+      journal: "The International tax Journal",
+      year: "2025",
+      issn: "ISSN: 0097-7314 E-ISSN: 3066-2370",
+      abstract: "Entrepreneurial risk-taking differs across societies due to cultural values shaping perceptions of uncertainty, reward, and failure. This study examines how dimensions such as individualism, uncertainty avoidance, power distance, and long-term orientation influence entrepreneurial decisions across developed and emerging economies. Integrating behavioral economics, cross-cultural psychology, and entrepreneurship research, the findings show that individualistic, low–uncertainty-avoidant cultures display higher risk appetite, while collectivist, high–uncertainty-avoidant societies favor stability and incremental innovation. Cultural values also affect investment choices, financing preferences, and venture survival strategies. Post-pandemic policy shifts further highlight culture’s role in shaping entrepreneurship, especially in digital and resource-limited markets.",
+      link:"https://internationaltaxjournal.online/index.php/itj/article/view/477/572"
+    },
+    
     {
       title: "CUSTOMERS' ATTITUDE, OPINION AND LEVEL OF SATISFACTION ABOUT E-BANKING - A FIELD STUDY",
       coAuthors: "Dr. M. JULIAS CEASAR , Dr. P. BERLIN KINGCY",

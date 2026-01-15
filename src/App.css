@@ -519,7 +519,7 @@ small { color: var(--muted); }
 }
 
 .footer-inner { 
-  height: 80px; 
+  height: auto; 
   display: flex; 
   align-items: center; 
   justify-content: center; 
@@ -530,7 +530,7 @@ small { color: var(--muted); }
 }
 
 .footer-text {
-  margin: 0 0 8px 0;
+  margin: 10px 0 10px 0;
   color: var(--muted);
   font-size: 14px;
 }
@@ -962,8 +962,8 @@ input:focus, textarea:focus {
   }
   
   .footer-inner {
-    height: 60px;
-    padding: 16px 0;
+    height: auto;
+    padding: 10px 0;
   }
   
   .footer-text {
