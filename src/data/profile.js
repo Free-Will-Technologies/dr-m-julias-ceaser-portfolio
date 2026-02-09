@@ -285,6 +285,16 @@ export const profile = {
   ],
 
   featuredPublications: [
+
+     {
+      title: "SUSTAINABLE BUSINESS PRACTICES AND THEIR ADOPTION IN THE HERBAL PRODUCTS INDUSTRY: EVIDENCE FROM TIRUCHIRAPPALLI DISTRICT",
+      coAuthors: "Dr. M. JULIAS CEASAR , Dr. J. VINOTH KUMAR",
+      journal: "Journal of Advanced and Future Research",
+      year: "2026",
+      issn: "JAAFR2602057",
+      abstract: "The study examines how sustainability awareness, traditional knowledge, and mindfulness influence customer behavior toward home-grown products in Tiruchirappalli, Tamil Nadu. Using surveys and interviews, it finds that wellness motivation, trust in traditional knowledge, and sustainability awareness strongly affect purchase intentions. However, awareness of sustainability certifications is low. While businesses are interested in sustainable practices, high certification costs and limited policy support are challenges. The study suggests integrating traditional knowledge with modern sustainability messaging, supported by education, fair pricing, and government incentives.",
+      link:""
+    },
     
     {
       title: "BLOCKCHAIN AND THE FUTURE OF ACCOUNTING: A CRITICAL EXAMINATION OF PROMISE VERSUS PRACTICE",
